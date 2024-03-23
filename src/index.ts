@@ -4,5 +4,6 @@ document.getElementById("app").innerHTML = `
   Look
   <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>
   for more info about Parcel.
+  Updated 2024.3 by Daniel
 </div>
 `;
